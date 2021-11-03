@@ -7,7 +7,9 @@ saat ini terdapat 2k+ data.
 untuk melihat keyword dan turunannya anda bisa memilih dari awalan abjad di bawah ini :
 
 [A.md](https://github.com/rahadiana/ide_keyword_indonesia/blob/main/abjad/A.md)
+
 [B.md](#)
+
 ......
 
 Contoh Struktur data [a.s.json] :
